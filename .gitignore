@@ -1,0 +1,37 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Build output
+/build/
+/dist/
+
+# Coverage reports
+/coverage/
+
+# Debug files
+*.pid
+*.seed
+*.tgz
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# React development files
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
